@@ -1,0 +1,15 @@
+C:\Users\yungv\bootcamp-codingdojo\csharp\Human\bin\Debug\net7.0\Human.exe
+C:\Users\yungv\bootcamp-codingdojo\csharp\Human\bin\Debug\net7.0\Human.deps.json
+C:\Users\yungv\bootcamp-codingdojo\csharp\Human\bin\Debug\net7.0\Human.runtimeconfig.json
+C:\Users\yungv\bootcamp-codingdojo\csharp\Human\bin\Debug\net7.0\Human.dll
+C:\Users\yungv\bootcamp-codingdojo\csharp\Human\bin\Debug\net7.0\Human.pdb
+C:\Users\yungv\bootcamp-codingdojo\csharp\Human\obj\Debug\net7.0\Human.csproj.AssemblyReference.cache
+C:\Users\yungv\bootcamp-codingdojo\csharp\Human\obj\Debug\net7.0\Human.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yungv\bootcamp-codingdojo\csharp\Human\obj\Debug\net7.0\Human.AssemblyInfoInputs.cache
+C:\Users\yungv\bootcamp-codingdojo\csharp\Human\obj\Debug\net7.0\Human.AssemblyInfo.cs
+C:\Users\yungv\bootcamp-codingdojo\csharp\Human\obj\Debug\net7.0\Human.csproj.CoreCompileInputs.cache
+C:\Users\yungv\bootcamp-codingdojo\csharp\Human\obj\Debug\net7.0\Human.dll
+C:\Users\yungv\bootcamp-codingdojo\csharp\Human\obj\Debug\net7.0\refint\Human.dll
+C:\Users\yungv\bootcamp-codingdojo\csharp\Human\obj\Debug\net7.0\Human.pdb
+C:\Users\yungv\bootcamp-codingdojo\csharp\Human\obj\Debug\net7.0\Human.genruntimeconfig.cache
+C:\Users\yungv\bootcamp-codingdojo\csharp\Human\obj\Debug\net7.0\ref\Human.dll
